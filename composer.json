@@ -26,7 +26,7 @@
   ],
   "require": {
     "php": "^8.3",
-    "slim/slim": "^4.12"
+    "minniark/minniark": "^4.12"
   },
   "autoload": {
     "psr-4": {
