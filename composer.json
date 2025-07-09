@@ -1,6 +1,6 @@
 {
   "name": "minniark/basic",
-  "description": "Ein Starter-Template für Minniark mit Slim Framework",
+  "description": "Basic starter template for minniark",
   "type": "project",
   "license": "MIT",
   "keywords": [
