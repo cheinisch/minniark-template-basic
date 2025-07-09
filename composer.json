@@ -1,0 +1,43 @@
+{
+  "name": "minniark/minniark-template-basic",
+  "description": "Ein Starter-Template für Minniark mit Slim Framework",
+  "type": "project",
+  "license": "MIT",
+  "keywords": [
+    "minniark",
+    "minniark-template",
+    "template",
+    "starter",
+    "api",
+    "slim"
+  ],
+  "homepage": "https://github.com/cheinisch/minniark-template-basic",
+  "support": {
+    "issues": "https://github.com/cheinisch/minniark-template-basic/issues",
+    "source": "https://github.com/cheinisch/minniark-template-basic"
+  },
+  "authors": [
+    {
+      "name": "Max Beispiel",
+      "email": "max.beispiel@example.com",
+      "role": "Developer",
+      "homepage": "https://minniark.app"
+    }
+  ],
+  "require": {
+    "php": "^8.3",
+    "slim/slim": "^4.12"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.0-dev"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
